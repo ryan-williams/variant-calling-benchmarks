@@ -1,3 +1,7 @@
 {
-    "guacamole_arguments": []
+    "guacamole_arguments": [
+        "--quiet",
+        "--out-dir",
+        "results"
+    ]
 }
